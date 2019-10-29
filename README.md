@@ -2,7 +2,7 @@
 
 **pscircle** visualizes Linux processes in a form of radial tree.
 
-*by Ruslan Kuchumov, 2018*
+
 
 # Installation
 
@@ -225,6 +225,8 @@ As *pscircle* is not tested yet in multi-display environment to make it work cor
 
 You can suggest your desired features [here](https://gitlab.com/mildlyparallel/pscircle/issues/7) and vote for the features suggested by other users.
 
-# Asknowlegemnts
+# Acknowlegemnts
 
 Thanks Bill MIll for writing an article on [tree visualization algorithm](https://llimllib.github.io/pymag-trees/) which was used in this program.
+
+*by Ruslan Kuchumov, 2018*
